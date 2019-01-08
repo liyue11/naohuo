@@ -1,0 +1,15 @@
+{
+    "data": {
+        "goods": [
+            {
+                "goods_id":"12"
+            },
+            {
+                "goods_name":"土耳其冰激凌"
+            },
+            {
+                "goods_thumb":"https://s1.best-wallpaper.net/wallpaper/m/1609/Summer-dessert-ice-cream-berries-mint_m.jpg"
+            }
+        ]
+    }
+}
